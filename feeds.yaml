@@ -1,0 +1,41 @@
+# AI Newsletter RSS Feeds
+# Add or remove feeds here. Each entry needs a name and url.
+# Substack feeds follow the pattern: https://{publication}.substack.com/feed
+# Run fetch_news.py after editing to pick up changes immediately.
+
+feeds:
+  - name: "Import AI (Jack Clark)"
+    url: "https://importai.substack.com/feed"
+
+  - name: "The Batch (DeepLearning.AI)"
+    url: "https://www.deeplearning.ai/the-batch/feed/"
+
+  - name: "Ben's Bites"
+    url: "https://bensbites.com/feed"
+
+  - name: "The Rundown AI"
+    url: "https://therundownai.substack.com/feed"
+
+  - name: "TLDR AI"
+    url: "https://tldr.tech/api/latest/ai"
+
+  - name: "Nathan Benaich / Air Street Capital"
+    url: "https://nathanbenaich.substack.com/feed"
+
+  - name: "The Gradient"
+    url: "https://thegradient.pub/rss/"
+
+  - name: "Ahead of AI (Sebastian Raschka)"
+    url: "https://magazine.sebastianraschka.com/feed"
+
+  - name: "AI Supremacy"
+    url: "https://aisupremacy.substack.com/feed"
+
+  - name: "Interconnects (Nathan Lambert)"
+    url: "https://www.interconnects.ai/feed"
+
+  - name: "The AI Edge"
+    url: "https://theaiedge.substack.com/feed"
+
+  - name: "Last Week in AI"
+    url: "https://lastweekin.ai/feed"
