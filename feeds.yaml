@@ -8,13 +8,13 @@ feeds:
     url: "https://importai.substack.com/feed"
 
   - name: "The Batch (DeepLearning.AI)"
-    url: "https://www.deeplearning.ai/the-batch/feed/"
+    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_the_batch.xml"
 
   - name: "Ben's Bites"
     url: "https://bensbites.com/feed"
 
   - name: "The Rundown AI"
-    url: "https://therundownai.substack.com/feed"
+    url: "https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml"
 
   - name: "TLDR AI"
     url: "https://tldr.tech/api/latest/ai"
