@@ -2863,5 +2863,15 @@
     "saved_on": "2026-04-17",
     "source": "Ben's Bites",
     "title": "My cheatsheet for a clean context"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-349/": {
+    "saved_on": "2026-04-18",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "Meta Pivots From Open Weights, Big Pharma Bets On AI, Regulatory Patchwork, Simulating Human Cohorts"
+  },
+  "https://www.therundown.ai/p/openai-superapp-hiding-inside-codex": {
+    "saved_on": "2026-04-18",
+    "source": "The Rundown AI",
+    "title": "OpenAI's superapp hiding inside Codex"
   }
 }
