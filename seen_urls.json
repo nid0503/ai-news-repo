@@ -2873,5 +2873,10 @@
     "saved_on": "2026-04-18",
     "source": "The Rundown AI",
     "title": "OpenAI's superapp hiding inside Codex"
+  },
+  "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms": {
+    "saved_on": "2026-04-19",
+    "source": "Ahead of AI (Sebastian Raschka)",
+    "title": "My Workflow for Understanding LLM Architectures"
   }
 }
