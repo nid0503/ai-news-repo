@@ -4928,5 +4928,15 @@
     "saved_on": "2026-05-16",
     "source": "The Batch (DeepLearning.AI)",
     "title": "China Thwarts Meta’s Agentic Ambition, U.S. Evaluates Upcoming Models, AI Diagnoses Mammograms"
+  },
+  "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model": {
+    "saved_on": "2026-05-17",
+    "source": "Interconnects (Nathan Lambert)",
+    "title": "Latest open artifacts (#21): Open model bonanza! Gemma 4, DeepSeek V4, Kimi K2.6, MiMo 2.5, GLM-5.1 & others. On CAISI's V4 assessment."
+  },
+  "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures": {
+    "saved_on": "2026-05-17",
+    "source": "Ahead of AI (Sebastian Raschka)",
+    "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention"
   }
 }
