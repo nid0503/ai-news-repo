@@ -5343,5 +5343,10 @@
     "saved_on": "2026-07-17",
     "source": "The Rundown AI",
     "title": "OpenAI’s new $230 AI agent control pad"
+  },
+  "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms": {
+    "saved_on": "2026-07-19",
+    "source": "Ahead of AI (Sebastian Raschka)",
+    "title": "Controlling Reasoning Effort in LLMs"
   }
 }
