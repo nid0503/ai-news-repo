@@ -5403,5 +5403,15 @@
     "saved_on": "2026-07-22",
     "source": "Ben's Bites",
     "title": "Better design than Fable"
+  },
+  "https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab": {
+    "saved_on": "2026-07-23",
+    "source": "The Rundown AI",
+    "title": "OpenAI’s cyber test escapes the lab"
+  },
+  "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3": {
+    "saved_on": "2026-07-23",
+    "source": "Interconnects (Nathan Lambert)",
+    "title": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next"
   }
 }
