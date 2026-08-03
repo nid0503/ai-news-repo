@@ -5458,5 +5458,20 @@
     "saved_on": "2026-07-31",
     "source": "The Rundown AI",
     "title": "OpenAI's models cut their own costs"
+  },
+  "https://www.therundown.ai/p/openai-astra-solves-10-long-standing-math-problems": {
+    "saved_on": "2026-08-03",
+    "source": "The Rundown AI",
+    "title": "OpenAI's 'Astra' solves 10 long-standing math problems"
+  },
+  "https://lastweekin.ai/p/lwiai-podcast-253-opus-5-gemini-36": {
+    "saved_on": "2026-08-03",
+    "source": "Last Week in AI",
+    "title": "LWiAI Podcast #253 - Opus 5, Gemini 3.6, Kimi K3, Hugging Face Hack"
+  },
+  "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21": {
+    "saved_on": "2026-08-03",
+    "source": "Interconnects (Nathan Lambert)",
+    "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier"
   }
 }
