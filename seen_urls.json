@@ -5573,5 +5573,10 @@
     "saved_on": "2026-08-15",
     "source": "Interconnects (Nathan Lambert)",
     "title": "GLM-5.3: How Chinese labs keep stride with the frontier"
+  },
+  "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch": {
+    "saved_on": "2026-08-16",
+    "source": "Ahead of AI (Sebastian Raschka)",
+    "title": "Building an AI Text Detector From Scratch"
   }
 }
