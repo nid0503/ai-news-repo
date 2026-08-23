@@ -5718,5 +5718,10 @@
     "saved_on": "2026-08-22",
     "source": "Ben's Bites",
     "title": "How I built this"
+  },
+  "https://magazine.sebastianraschka.com/p/claude-watermarking": {
+    "saved_on": "2026-08-23",
+    "source": "Ahead of AI (Sebastian Raschka)",
+    "title": "How Claude Watermarks AI-Generated Text"
   }
 }
