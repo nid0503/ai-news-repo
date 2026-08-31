@@ -5768,5 +5768,15 @@
     "saved_on": "2026-08-28",
     "source": "Ben's Bites",
     "title": "How I built this"
+  },
+  "https://lastweekin.ai/p/lwiai-podcast-255-gemini-37-jalapeno": {
+    "saved_on": "2026-08-31",
+    "source": "Last Week in AI",
+    "title": "LWiAI Podcast #255 - Gemini 3.7, Jalapeño, Qwen 3.8, Drones"
+  },
+  "https://therundownai.beehiiv.com/p/openai-cuts-out-spacex-owned-cursor": {
+    "saved_on": "2026-08-31",
+    "source": "The Rundown AI",
+    "title": "OpenAI cuts out SpaceX-owned Cursor"
   }
 }
