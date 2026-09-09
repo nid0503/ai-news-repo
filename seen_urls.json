@@ -5828,5 +5828,35 @@
     "saved_on": "2026-09-08",
     "source": "The Rundown AI",
     "title": "Inside OpenAI's agent-powered research boom"
+  },
+  "https://www.bensbites.com/p/the-first-gpt-6-model": {
+    "saved_on": "2026-09-09",
+    "source": "Ben's Bites",
+    "title": "The first GPT-6 model"
+  },
+  "https://lastweekin.ai/p/lwiai-podcast-256-fable-51-astra": {
+    "saved_on": "2026-09-09",
+    "source": "Last Week in AI",
+    "title": "LWiAI Podcast #256 - Fable 5.1, Astra Tease, Gemini 3.8 Flash"
+  },
+  "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and": {
+    "saved_on": "2026-09-09",
+    "source": "Ahead of AI (Sebastian Raschka)",
+    "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning"
+  },
+  "https://www.interconnects.ai/p/when-will-average-people-feel-ais": {
+    "saved_on": "2026-09-09",
+    "source": "Interconnects (Nathan Lambert)",
+    "title": "When will average people feel AI’s impact?"
+  },
+  "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3": {
+    "saved_on": "2026-09-09",
+    "source": "Interconnects (Nathan Lambert)",
+    "title": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses"
+  },
+  "https://therundownai.beehiiv.com/p/openai-secret-model-settles-a-1m-math-problem": {
+    "saved_on": "2026-09-09",
+    "source": "The Rundown AI",
+    "title": "OpenAI's secret model settles a $1M math problem"
   }
 }
