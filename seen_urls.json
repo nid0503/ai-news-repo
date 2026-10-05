@@ -6038,5 +6038,100 @@
     "saved_on": "2026-10-03",
     "source": "Last Week in AI",
     "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-373": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "The Next Top Open Model, Google Voice Agents, DeepSeek Shrinks Caches: Plus a letter on open weight cybersecurity capabilities"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-372": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "Opus Stalks the Frontier, Jev Classifies Everything, Running Two Models in One Agent"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-371": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "Meta’s Agent Security, The Navier-Stokes Controversy, Fraud on Claude"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-370": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "OpenAI and Anthropic fight it out for the top overall spot, while Google, Meta, and Microsoft all release transcription models"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-369": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "Inside Key Changes in Data Policies, Ox Alpha Revealed, Taking Custom Models Beyond Fine-Tuning"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-368": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "GLM-5.3’s Exploits, AI Models and Hardware Speed Up, DeepSeek’s New Agent Harness"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-367": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "Anthropic’s Watermarks, Grok 4.6 Surges, Qwen’s Open Weights, Better Corrections for Speech Recognition"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-366": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "Meta’s Play for Coding Data, Google Robotics Multi-Embodiment, MiniMax’s Open Video Model (With an Asterisk)"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-365": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "DeepSeek-V4-Flash Outshines Pro, The Biggest GitHub Crawl Yet, Engineering System Prompts for Safer Code"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-364": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "Opus Outshines Even Fable, Inside the Hugging Face Hack, AI Companies Spend Big for Compute"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-363": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "Kimi K3 Redraws the Open Frontier, Muse Spark 1.1 Undercuts Competitors, Cloudflare Moves to Cut Off Crawlers"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-362": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "AI Overviews Land Google In Hot Water, GPT-Live Puts Reasoning in the Background, How to Tell If Your Model is Manipulative"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-361": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "Restoration of Claude Fable 5, Gemini's Video Dev Engine, DeepSeek Speeds Up Speculative Decoding"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-360": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "OpenAI’s GPT-5.6 Family, New Ways to Train Robots, Models Invoking Models"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-359": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "A New Generation Studies AI, Apple's Recipe for On-Device Models, GLM5.2 Tackles Open-Ended Problems"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-358": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "Testing Mythos and Fable, Moving Beyond SWE-bench, Nvidia's Open Contender"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-357": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "Mythos Begets Fable, Cursor's Composer 2.5, Agents Building Agents"
+  },
+  "https://www.deeplearning.ai/the-batch/issue-356": {
+    "saved_on": "2026-10-05",
+    "source": "The Batch (DeepLearning.AI)",
+    "title": "Qwen3.7-Max Challenges Google for Third Place, AI Saves Whales, Fine-Tuning Breaks Copyright Alignment"
+  },
+  "https://therundownai.beehiiv.com/p/an-openai-safety-insider-calls-the-culture-broken": {
+    "saved_on": "2026-10-05",
+    "source": "The Rundown AI",
+    "title": "An OpenAI safety insider calls the culture 'broken'"
   }
 }
