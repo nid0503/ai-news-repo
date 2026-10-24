@@ -6263,5 +6263,10 @@
     "saved_on": "2026-10-23",
     "source": "Ben's Bites",
     "title": "Claude’s personal agent"
+  },
+  "https://magazine.sebastianraschka.com/p/building-reasoning-models": {
+    "saved_on": "2026-10-24",
+    "source": "Ahead of AI (Sebastian Raschka)",
+    "title": "Building Reasoning Models from the Ground Up: A Video Course"
   }
 }
